@@ -1,0 +1,36 @@
+{
+  "name": "ujjibon-web-form",
+  "version": "1.0.0",
+  "description": "Professional guidance to help you make informed career decisions and achieve your professional goals.",
+  "main": "scripts.js",
+  "scripts": 
+  {
+    "start": "live-server --port=8080",
+    "build": "echo 'No build step defined'",
+    "test": "echo 'No test specified'"
+  },
+
+  "author": "Faysal Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+
+  "devDependencies": {},
+  "keywords": [
+    "career",
+    "counseling",
+    "guidance",
+    "professional",
+    "web"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmed8faysal/curly-system"
+  },
+  "bugs": {
+    "url": "https://github.com/ahmed8faysal/curly-system/tree/main/reports"
+  },
+  "homepage": "https://ahmed8faysal.github.io/curly-system/"
+}
